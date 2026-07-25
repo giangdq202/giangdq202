@@ -39,12 +39,10 @@ Infrastructure & Backend. FPT University.
 
 ### Activity
 
-<a href="https://github.com/giangdq202">
-  <img align="left" height="140em" src="https://github-readme-stats.vercel.app/api?username=giangdq202&show_icons=true&hide_border=true&count_private=true&theme=graywhite&hide_title=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giangdq202&layout=compact&langs_count=6&hide_border=true&theme=graywhite&hide_title=true"/>
-</a>
-
-<br clear="both"/>
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giangdq202/giangdq202/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giangdq202/giangdq202/output/github-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/giangdq202/giangdq202/output/github-snake.svg" />
+</picture>
 
 **Contact:** [giangdq.01012003@gmail.com](mailto:giangdq.01012003@gmail.com)
