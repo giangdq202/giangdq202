@@ -5,7 +5,6 @@ Co-founder & Core Infrastructure Lead at [@529-studio](https://github.com/529-st
 
 [![529 Studio](https://img.shields.io/badge/529_Studio-529studio.site-111111?style=flat-square&logo=cloudflare&logoColor=F38020)](https://529studio.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dqgiang1123-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/dqgiang1123)
-[![TOEIC](https://img.shields.io/badge/TOEIC-825%20%2F%20990-008080?style=flat-square)](mailto:giangdq.01012003@gmail.com)
 [![Email](https://img.shields.io/badge/Email-giangdq.01012003%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:giangdq.01012003@gmail.com)
 
 ---
