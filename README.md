@@ -34,7 +34,7 @@ I build resilient backend services, automate CI/CD workflows, and operate harden
 * **[F1 Virtual Engineer](https://github.com/529-studio/f1-virtual-engineer)** ([Live Demo](https://f1.529studio.site)) — *Agentic AI Race Strategy Assistant*  
   Real-time Formula 1 tactical simulation powered by **Python**, **LangGraph**, **FastAPI**, **Redis**, and **RabbitMQ** with automated container deployment.
 * **[JCertPre](https://github.com/giangdq202/JCertPre-BE)** — *Japanese Certification Prep Platform*  
-  FPT University Capstone Project (**Grade: 8.6 / 10**). Comprehensive backend architected with **C# .NET 8**, **PostgreSQL**, **Redis**, and **SignalR**.
+  FPT University Capstone Project. Comprehensive backend architected with **C# .NET 8**, **PostgreSQL**, **Redis**, and **SignalR**.
 
 ---
 
